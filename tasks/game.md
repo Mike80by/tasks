@@ -1,12 +1,15 @@
 | Deadline  | Folder name |
 |-----------|-------------|
-| 23:59 12.04.2017 | game |
+| 23:59 15.12.2017 | game |
 
 ### Game based on JavaScript + HTML or Canvas/WebGl/SVG.
 
 ### Requirements
 #### Obligatory:
-  1. Any genre.
+  1. Any genre. Storyline around:
+     * Zombie apocalypse
+     * Middle Ages
+     * Cosmos / Space 
   2. You can make it yourself or in a team of two.
   3. You can use any framework (e.g. https://phaser.io/)
   4. Default language is JavaScript. Usage of ES6+ features is highly welcome.
